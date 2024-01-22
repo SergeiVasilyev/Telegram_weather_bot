@@ -1,5 +1,5 @@
 # Telegram weather bot with OpenWeatherMap (OWM) web APIs
 
-## Install & Run
-- 
+## Install
+```pip install -r requirements.txt```
 
